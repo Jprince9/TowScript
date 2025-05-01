@@ -1,5 +1,7 @@
 /*
 Key: 
+0: City Cleanup : Unauthorized Parking
+1: City Cleanup : Unpaid Meter
 3: Section 3: Unauthorized Parking
 8: Section 8: Unpaid Meter
 5: Regulations on Recreational Vehicles
@@ -28,6 +30,10 @@ copy(reasonText, () => {})
 
 function formatReason(){
     switch(parseInt(process.argv[2])){
+        case 1: 
+            return createLog("City Cleanup | Unauthorized Parking")
+        case 2: 
+            return createLog("City Cleanup | Unpaid Meter")
         case 3:
             return createLog("Unauthorized Parking")
         case 5:
