@@ -2,11 +2,12 @@ Initial version of script to generate impound log reasons with randomized images
 
 Requires Node V22+ 
 
-You Can use the supplied image links inside the imagelink.txt, or supply your own, each image link on its own line.  Image links must use https and must be .jpeg or .png
-Output is automatically formatted and copied to system keyboard
-Images included in command are always added to the imagelinks.txt and always copied to the output
-If using a custom reason must use underscores to seperate words
-number of total images in output can be modified by changing value of "numberOfImages"
+* You Can use the supplied image links inside the imagelink.txt, or supply your own, each image link on its own line.  
+* Image links must use https and must be .jpeg or .png  
+* Output is automatically formatted and copied to system keyboard  
+* Images included in command are always added to the imagelinks.txt and always copied to the output  
+* If using a custom reason must use underscores to seperate words  
+* number of total images in output can be modified by changing value of "numberOfImages"  
 
 
 Supported Reasons (int / string)
