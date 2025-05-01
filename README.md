@@ -25,12 +25,16 @@ To execute:
 
 
 
-Example: Node impound.js 3 https://imagelink1.jpeg https://imagelink2.jpeg
+Example:  
+- Node impound.js 3 https://imagelink1.jpeg https://imagelink2.jpeg  
 
-output: Unauthorized Parking | https://i.imgur.com/Vt06FiL.png https://i.imgur.com/az7aev4.png https://i.imgur.com/GpPEjwX.jpeg https://imagelink1.jpeg https://i.imgur.com/HQP6GZJ.jpeg https://i.imgur.com/GkKbyQ9.jpeg https://i.imgur.com/bE07DFp.jpeg https://i.imgur.com/V8RMorh.jpeg https://imagelink2.jpeg https://i.imgur.com/xL3BHhg.jpeg
+Output:  
+- Unauthorized Parking | https://i.imgur.com/Vt06FiL.png https://i.imgur.com/az7aev4.png https://i.imgur.com/GpPEjwX.jpeg https://imagelink1.jpeg https://i.imgur.com/HQP6GZJ.jpeg https://i.imgur.com/GkKbyQ9.jpeg https://i.imgur.com/bE07DFp.jpeg https://i.imgur.com/V8RMorh.jpeg https://imagelink2.jpeg https://i.imgur.com/xL3BHhg.jpeg
 
 
 
-Example Node impound.js Parked_Like_A_Jerk https://imagelink1.jpeg https://imagelink2.jpeg
+Example:  
+- Node impound.js Parked_Like_A_Jerk https://imagelink1.jpeg https://imagelink2.jpeg
 
-output Parked_Like_A_Jerk | https://i.imgur.com/Vt06FiL.png https://i.imgur.com/az7aev4.png https://i.imgur.com/GpPEjwX.jpeg https://imagelink1.jpeg https://i.imgur.com/HQP6GZJ.jpeg https://i.imgur.com/GkKbyQ9.jpeg https://i.imgur.com/bE07DFp.jpeg https://i.imgur.com/V8RMorh.jpeg https://imagelink2.jpeg https://i.imgur.com/xL3BHhg.jpeg
+Output:  
+- Parked_Like_A_Jerk | https://i.imgur.com/Vt06FiL.png https://i.imgur.com/az7aev4.png https://i.imgur.com/GpPEjwX.jpeg https://imagelink1.jpeg https://i.imgur.com/HQP6GZJ.jpeg https://i.imgur.com/GkKbyQ9.jpeg https://i.imgur.com/bE07DFp.jpeg https://i.imgur.com/V8RMorh.jpeg https://imagelink2.jpeg https://i.imgur.com/xL3BHhg.jpeg
