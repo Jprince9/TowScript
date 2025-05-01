@@ -11,6 +11,8 @@ Requires Node V22+
 
 
 Supported Reasons (int / string)
+1: City Cleanup | Unauthorized Parking
+2: City Cleanup | Unpaid Meter
 3: Unauthorized Parking
 8: Unpaid Meter
 5: Regulations on Recreational Vehicles
